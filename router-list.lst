@@ -20,7 +20,6 @@ chat.openai.com
 auth0.openai.com
 *ns1.cloudflare.net
 *cdn.oaistatic.com
-*openai.com
 *files.oaiusercontent.com
 *api.openai.com
 *ab.chatgpt.com
@@ -45,3 +44,5 @@ tiktokd.org
 tiktokv.com
 tiktokv.us
 tiktokw.us
+jart.biu.ac.il
+gov.il
